@@ -1,0 +1,103 @@
+<skyculture id="zulu" name="zulu">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>CC BY-ND 4.0 International Public License</license>
+    <credit>Centre for Astronomical Heritage (CfAH)</credit>
+    <region>Southern Africa</region>
+  </metadata>
+  <descriptions>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="isilimela">
+      <noms>
+        <nom lang="native">isiLimela</nom>
+        <nom lang="eng">Digging Stars</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="17573" hip2="17499"/>
+      </segments>
+      <stellarium_figure src="illustrations/digging-stars.png" width="512" height="512">
+        <ancre hip="20205" x="237" y="504"/>
+        <ancre hip="17499" x="187" y="127"/>
+        <ancre hip="17573" x="175" y="120"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="ondwenjana">
+      <noms>
+        <nom lang="native">oNdwenjana</nom>
+        <nom lang="eng">Long-stemmed flower</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="26563" hip2="25923"/>
+      </segments>
+      <stellarium_figure src="illustrations/flower.png" width="512" height="512">
+        <ancre hip="16852" x="191" y="83"/>
+        <ancre hip="26563" x="323" y="180"/>
+        <ancre hip="31681" x="350" y="501"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="isandulela">
+      <noms>
+        <nom lang="native">isAndulela</nom>
+        <nom lang="eng">Journey to new grazing lands</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="41483" hip2="41373"/>
+      </segments>
+      <stellarium_figure src="illustrations/cattle.png" width="512" height="512">
+        <ancre hip="32349" x="88" y="17"/>
+        <ancre hip="30438" x="253" y="177"/>
+        <ancre hip="60260" x="222" y="475"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="umthala_wezinkanyezi">
+      <noms>
+        <nom lang="native">Umthala Wezinkanyezi</nom>
+        <nom lang="eng">Stream of spears</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="85696" hip2="85927"/>
+      </segments>
+      <stellarium_figure src="illustrations/spears.png" width="512" height="512">
+        <ancre hip="80569" x="105" y="143"/>
+        <ancre hip="63613" x="409" y="53"/>
+        <ancre hip="93015" x="433" y="202"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="impanbana">
+      <noms>
+        <nom lang="native">Impanbana</nom>
+        <nom lang="eng">Crossing</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="26063" hip2="25727"/>
+      </segments>
+      <stellarium_figure src="illustrations/crossing.png" width="512" height="512">
+        <ancre hip="24041" x="307" y="3"/>
+        <ancre hip="26311" x="423" y="136"/>
+        <ancre hip="24197" x="139" y="511"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <etoile hip="7588">Achernar</etoile>
+    <etoile hip="21421">Aldebaran</etoile>
+    <etoile hip="24436">Rigel</etoile>
+    <etoile hip="24608">Capella</etoile>
+    <etoile hip="27989">Betelgeuse</etoile>
+    <etoile hip="30438">Canopus</etoile>
+    <etoile hip="32349">Sirius</etoile>
+    <etoile hip="60718">Acrux</etoile>
+    <etoile hip="68702">Hadar</etoile>
+    <etoile hip="71683">Rigil Kent</etoile>
+    <etoile hip="80763">Antares</etoile>
+  </corps_celestes>
+</skyculture>
