@@ -1,0 +1,94 @@
+<skyculture id="xhosa" name="xhosa">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>CC BY-ND 4.0 International Public License</license>
+    <credit>Centre for Astronomical Heritage (CfAH)</credit>
+    <region>Southern Africa</region>
+  </metadata>
+  <descriptions>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="isilimela">
+      <noms>
+        <nom lang="native">isiLimela</nom>
+        <nom lang="eng">Digging Stars</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="17573" hip2="17499"/>
+      </segments>
+      <stellarium_figure src="illustrations/digging-stars.png" width="512" height="512">
+        <ancre hip="20205" x="237" y="504"/>
+        <ancre hip="17499" x="187" y="127"/>
+        <ancre hip="17573" x="175" y="120"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="iqhawe">
+      <noms>
+        <nom lang="native">iQhawe</nom>
+        <nom lang="eng">The Champion</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="32349" hip2="30324"/>
+      </segments>
+      <stellarium_figure src="illustrations/the-champion.png" width="512" height="512">
+        <ancre hip="26311" x="270" y="22"/>
+        <ancre hip="32349" x="229" y="214"/>
+        <ancre hip="30438" x="427" y="406"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="ucanzibe">
+      <noms>
+        <nom lang="native">uCanzibe</nom>
+        <nom lang="eng">Boys dancing</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="30438" hip2="31407"/>
+      </segments>
+      <stellarium_figure src="illustrations/boys-dancing.png" width="512" height="512">
+        <ancre hip="32349" x="88" y="17"/>
+        <ancre hip="30438" x="253" y="177"/>
+        <ancre hip="60260" x="222" y="475"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="umnyele">
+      <noms>
+        <nom lang="native">umNyele</nom>
+        <nom lang="eng">Angry dog</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="85927" hip2="85696"/>
+      </segments>
+      <stellarium_figure src="illustrations/angry-dog.png" width="512" height="512">
+        <ancre hip="80569" x="105" y="143"/>
+        <ancre hip="63613" x="409" y="53"/>
+        <ancre hip="93015" x="433" y="202"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="amakroza">
+      <noms>
+        <nom lang="native">amaKroza</nom>
+        <nom lang="eng">In a queue</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="26311" hip2="26174"/>
+      </segments>
+      <stellarium_figure src="illustrations/in-a-queue.png" width="512" height="512">
+        <ancre hip="24436" x="288" y="12"/>
+        <ancre hip="26311" x="266" y="249"/>
+        <ancre hip="27989" x="200" y="505"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <etoile hip="30438">uCanzibe</etoile>
+    <etoile hip="32349">iQhawa</etoile>
+  </corps_celestes>
+</skyculture>
