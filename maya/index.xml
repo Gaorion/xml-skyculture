@@ -1,0 +1,275 @@
+<skyculture id="maya" name="maya">
+  <metadata>
+    <classification type="historical"/>
+    <license>CC BY-NC-SA 4.0 International Public License</license>
+    <credit/>
+    <region>Central America</region>
+  </metadata>
+  <descriptions>
+    <description lang="zh_CN" src="description.zh_CN.utf8"/>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="way_paat_ahiin">
+      <noms>
+        <nom lang="native">Way Paat Ahiin</nom>
+        <nom lang="eng">Hole-backed Caiman</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="6686" hip2="4427"/>
+        <segment hip1="4427" hip2="3179"/>
+        <segment hip1="3179" hip2="746"/>
+        <segment hip1="746" hip2="102098"/>
+        <segment hip1="102098" hip2="100453"/>
+        <segment hip1="100453" hip2="99824"/>
+        <segment hip1="100453" hip2="91262"/>
+      </segments>
+      <stellarium_figure src="illustrations/14.png" width="256" height="512">
+        <ancre hip="6686" x="107" y="43"/>
+        <ancre hip="107664" x="24" y="291"/>
+        <ancre hip="91971" x="209" y="455"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="aak">
+      <noms>
+        <nom lang="native">Aak</nom>
+        <nom lang="eng">Turtle</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="26727" hip2="25930"/>
+      </segments>
+      <stellarium_figure src="illustrations/12.png" width="256" height="256">
+        <ancre hip="25930" x="78" y="142"/>
+        <ancre hip="26727" x="155" y="132"/>
+        <ancre hip="25281" x="56" y="21"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="oxib_xkub">
+      <noms>
+        <nom lang="native">Oxib' Xk'ub'</nom>
+        <nom lang="eng">Primordial Fire</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="27366" hip2="24436"/>
+        <segment hip1="24436" hip2="26727"/>
+        <segment hip1="27366" hip2="26727"/>
+      </segments>
+      <stellarium_figure src="illustrations/13.png" width="256" height="256">
+        <ancre hip="24436" x="251" y="206"/>
+        <ancre hip="27341" x="4" y="235"/>
+        <ancre hip="26237" x="132" y="22"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="kitamob">
+      <noms>
+        <nom lang="native">kitamob</nom>
+        <nom lang="eng">Pecaries</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="37826" hip2="36850"/>
+        <segment hip1="36850" hip2="38016"/>
+      </segments>
+      <stellarium_figure src="illustrations/11.png" width="256" height="256">
+        <ancre hip="37826" x="225" y="188"/>
+        <ancre hip="36850" x="66" y="83"/>
+        <ancre hip="38016" x="8" y="169"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="xoc">
+      <noms>
+        <nom lang="native">Xoc</nom>
+        <nom lang="eng">Shark</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="68895" hip2="68933"/>
+        <segment hip1="68933" hip2="76470"/>
+        <segment hip1="68933" hip2="65109"/>
+        <segment hip1="65109" hip2="68002"/>
+        <segment hip1="68002" hip2="71352"/>
+        <segment hip1="71352" hip2="73273"/>
+        <segment hip1="73273" hip2="71860"/>
+      </segments>
+      <stellarium_figure src="illustrations/1.png" width="256" height="256">
+        <ancre hip="68895" x="204" y="68"/>
+        <ancre hip="76470" x="21" y="45"/>
+        <ancre hip="71860" x="69" y="186"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="siinaan">
+      <noms>
+        <nom lang="native">Siina'an</nom>
+        <nom lang="eng">Scorpion</nom>
+      </noms>
+      <segments ctl="4">
+        <segment hip1="80763" hip2="78104"/>
+        <segment hip1="78104" hip2="80911"/>
+        <segment hip1="80911" hip2="82729"/>
+        <segment hip1="80911" hip2="76939"/>
+      </segments>
+      <stellarium_figure src="illustrations/6.png" width="256" height="256">
+        <ancre hip="80763" x="130" y="33"/>
+        <ancre hip="82729" x="28" y="221"/>
+        <ancre hip="76939" x="229" y="209"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="kaan">
+      <noms>
+        <nom lang="native">Kaan</nom>
+        <nom lang="eng">Snake</nom>
+      </noms>
+      <segments ctl="10">
+        <segment hip1="92855" hip2="93506"/>
+        <segment hip1="93506" hip2="90185"/>
+        <segment hip1="90185" hip2="88635"/>
+        <segment hip1="90185" hip2="89642"/>
+        <segment hip1="89642" hip2="86228"/>
+        <segment hip1="86228" hip2="90422"/>
+        <segment hip1="90422" hip2="93174"/>
+        <segment hip1="93174" hip2="93825"/>
+        <segment hip1="93825" hip2="94160"/>
+        <segment hip1="94160" hip2="93542"/>
+      </segments>
+      <stellarium_figure src="illustrations/8.png" width="256" height="256">
+        <ancre hip="92855" x="40" y="16"/>
+        <ancre hip="86228" x="222" y="203"/>
+        <ancre hip="93542" x="50" y="180"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="paddler_gods">
+      <noms>
+        <nom lang="native">Paddler Gods</nom>
+        <nom lang="eng">Paddler Gods</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="60718" hip2="32349"/>
+      </segments>
+      <stellarium_figure src="illustrations/15.png" width="1024" height="256">
+        <ancre hip="60718" x="22" y="217"/>
+        <ancre hip="47224" x="537" y="20"/>
+        <ancre hip="32349" x="1035" y="202"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="zool">
+      <noms>
+        <nom lang="native">Zool</nom>
+        <nom lang="eng">Bat</nom>
+      </noms>
+      <segments ctl="5">
+        <segment hip1="5364" hip2="3419"/>
+        <segment hip1="3419" hip2="1562"/>
+        <segment hip1="4577" hip2="5364"/>
+        <segment hip1="1562" hip2="1708"/>
+        <segment hip1="1708" hip2="4577"/>
+      </segments>
+      <stellarium_figure src="illustrations/9.png" width="256" height="256">
+        <ancre hip="5364" x="33" y="53"/>
+        <ancre hip="355" x="253" y="40"/>
+        <ancre hip="3419" x="132" y="121"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="kulte">
+      <noms>
+        <nom lang="native">Kulte'</nom>
+        <nom lang="eng">Owl</nom>
+      </noms>
+      <segments ctl="9">
+        <segment hip1="18907" hip2="19860"/>
+        <segment hip1="21421" hip2="20205"/>
+        <segment hip1="20205" hip2="20889"/>
+        <segment hip1="20205" hip2="18724"/>
+        <segment hip1="20205" hip2="19860"/>
+        <segment hip1="21589" hip2="20205"/>
+        <segment hip1="21589" hip2="22449"/>
+        <segment hip1="18724" hip2="17771"/>
+        <segment hip1="17771" hip2="17563"/>
+      </segments>
+      <stellarium_figure src="illustrations/2.png" width="256" height="256">
+        <ancre hip="21421" x="33" y="77"/>
+        <ancre hip="22449" x="10" y="194"/>
+        <ancre hip="18907" x="172" y="165"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="choom">
+      <noms>
+        <nom lang="native">Ch'oom</nom>
+        <nom lang="eng">Vulture</nom>
+      </noms>
+      <segments ctl="5">
+        <segment hip1="12832" hip2="12828"/>
+        <segment hip1="12828" hip2="11249"/>
+        <segment hip1="12828" hip2="11484"/>
+        <segment hip1="12828" hip2="14135"/>
+        <segment hip1="11484" hip2="12706"/>
+      </segments>
+      <stellarium_figure src="illustrations/5.png" width="256" height="256">
+        <ancre hip="14135" x="15" y="211"/>
+        <ancre hip="11484" x="207" y="67"/>
+        <ancre hip="12706" x="153" y="209"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="kimi">
+      <noms>
+        <nom lang="native">Kimi</nom>
+        <nom lang="eng">Death</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="50851" hip2="46771"/>
+        <segment hip1="46771" hip2="47431"/>
+        <segment hip1="47431" hip2="50851"/>
+      </segments>
+      <stellarium_figure src="illustrations/4.png" width="256" height="256">
+        <ancre hip="50851" x="17" y="51"/>
+        <ancre hip="46771" x="249" y="53"/>
+        <ancre hip="47431" x="129" y="253"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="balaam">
+      <noms>
+        <nom lang="native">B'alaam</nom>
+        <nom lang="eng">Jaguar</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="107380" hip2="98353"/>
+        <segment hip1="98353" hip2="98761"/>
+        <segment hip1="98761" hip2="107380"/>
+      </segments>
+      <stellarium_figure src="illustrations/3.png" width="256" height="256">
+        <ancre hip="105881" x="19" y="58"/>
+        <ancre hip="98353" x="232" y="48"/>
+        <ancre hip="98412" x="244" y="141"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="uo">
+      <noms>
+        <nom lang="native">Uo</nom>
+        <nom lang="eng">Toad</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="64962" hip2="60965"/>
+        <segment hip1="60965" hip2="59316"/>
+        <segment hip1="59316" hip2="64962"/>
+      </segments>
+      <stellarium_figure src="illustrations/10.png" width="256" height="256">
+        <ancre hip="64962" x="20" y="125"/>
+        <ancre hip="60965" x="157" y="100"/>
+        <ancre hip="59199" x="180" y="192"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <astre naif="299" name="Venus"/>
+    <etoile hip="49669">Single Star</etoile>
+    <etoile hip="36850">Two brilliant ones</etoile>
+    <etoile hip="37826">Two brilliant ones</etoile>
+    <etoile hip="61084">Corner Star</etoile>
+  </corps_celestes>
+</skyculture>
