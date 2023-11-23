@@ -1,0 +1,299 @@
+<skyculture id="tukano" name="tukano">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>CC BY-SA 4.0 International Public License</license>
+    <credit/>
+    <region>Southern America</region>
+  </metadata>
+  <descriptions>
+    <description lang="be" src="description.be.utf8"/>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="a&#241;a">
+      <noms>
+        <nom lang="native">A&#241;a</nom>
+        <nom lang="eng">Fer-de-lance (snake)</nom>
+      </noms>
+      <segments ctl="43">
+        <segment hip1="78820" hip2="78401"/>
+        <segment hip1="78401" hip2="78265"/>
+        <segment hip1="78401" hip2="80112"/>
+        <segment hip1="80112" hip2="80763"/>
+        <segment hip1="80763" hip2="81266"/>
+        <segment hip1="81266" hip2="82396"/>
+        <segment hip1="82396" hip2="82514"/>
+        <segment hip1="82514" hip2="82729"/>
+        <segment hip1="82729" hip2="84143"/>
+        <segment hip1="84143" hip2="86228"/>
+        <segment hip1="86228" hip2="87073"/>
+        <segment hip1="87073" hip2="86670"/>
+        <segment hip1="86670" hip2="86170"/>
+        <segment hip1="86170" hip2="85696"/>
+        <segment hip1="85696" hip2="85927"/>
+        <segment hip1="85927" hip2="87261"/>
+        <segment hip1="87261" hip2="87073"/>
+        <segment hip1="87073" hip2="89642"/>
+        <segment hip1="89642" hip2="90185"/>
+        <segment hip1="90185" hip2="89931"/>
+        <segment hip1="89931" hip2="89678"/>
+        <segment hip1="89678" hip2="90496"/>
+        <segment hip1="90496" hip2="92041"/>
+        <segment hip1="92041" hip2="92855"/>
+        <segment hip1="92855" hip2="93864"/>
+        <segment hip1="93864" hip2="93506"/>
+        <segment hip1="93506" hip2="91918"/>
+        <segment hip1="91918" hip2="90968"/>
+        <segment hip1="90968" hip2="90887"/>
+        <segment hip1="90887" hip2="90982"/>
+        <segment hip1="90982" hip2="91494"/>
+        <segment hip1="91494" hip2="92382"/>
+        <segment hip1="92382" hip2="92953"/>
+        <segment hip1="92953" hip2="93542"/>
+        <segment hip1="93542" hip2="94005"/>
+        <segment hip1="94005" hip2="94160"/>
+        <segment hip1="94160" hip2="94114"/>
+        <segment hip1="94114" hip2="93825"/>
+        <segment hip1="93825" hip2="93174"/>
+        <segment hip1="93174" hip2="92989"/>
+        <segment hip1="92989" hip2="91875"/>
+        <segment hip1="91875" hip2="91989"/>
+        <segment hip1="91989" hip2="92226"/>
+      </segments>
+    </asterisme>
+    <asterisme id="pam&#245;">
+      <noms>
+        <nom lang="native">Pam&#245;</nom>
+        <nom lang="eng">Armadillo</nom>
+      </noms>
+      <segments ctl="12">
+        <segment hip1="102532" hip2="102281"/>
+        <segment hip1="102281" hip2="101769"/>
+        <segment hip1="101769" hip2="101958"/>
+        <segment hip1="101958" hip2="102532"/>
+        <segment hip1="101769" hip2="101882"/>
+        <segment hip1="101769" hip2="101589"/>
+        <segment hip1="101589" hip2="101483"/>
+        <segment hip1="101483" hip2="101421"/>
+        <segment hip1="101421" hip2="101800"/>
+        <segment hip1="101421" hip2="101916"/>
+        <segment hip1="98036" hip2="97649"/>
+        <segment hip1="97649" hip2="97278"/>
+      </segments>
+    </asterisme>
+    <asterisme id="dahsiaw">
+      <noms>
+        <nom lang="native">Dahsiaw</nom>
+        <nom lang="eng">Caridean Shrimp</nom>
+      </noms>
+      <segments ctl="18">
+        <segment hip1="115438" hip2="115669"/>
+        <segment hip1="115669" hip2="116118"/>
+        <segment hip1="116118" hip2="116247"/>
+        <segment hip1="116247" hip2="116901"/>
+        <segment hip1="116901" hip2="117089"/>
+        <segment hip1="117089" hip2="117218"/>
+        <segment hip1="117218" hip2="117629"/>
+        <segment hip1="117629" hip2="301"/>
+        <segment hip1="301" hip2="696"/>
+        <segment hip1="696" hip2="983"/>
+        <segment hip1="983" hip2="1170"/>
+        <segment hip1="1170" hip2="1402"/>
+        <segment hip1="1402" hip2="1728"/>
+        <segment hip1="116901" hip2="116957"/>
+        <segment hip1="116957" hip2="116971"/>
+        <segment hip1="116971" hip2="116758"/>
+        <segment hip1="116758" hip2="116368"/>
+        <segment hip1="116758" hip2="116591"/>
+      </segments>
+    </asterisme>
+    <asterisme id="mhua">
+      <noms>
+        <nom lang="native">Mhua</nom>
+        <nom lang="eng">A kind of fish</nom>
+      </noms>
+      <segments ctl="5">
+        <segment hip1="114724" hip2="114939"/>
+        <segment hip1="114939" hip2="114855"/>
+        <segment hip1="114855" hip2="115033"/>
+        <segment hip1="115033" hip2="115115"/>
+        <segment hip1="115033" hip2="114939"/>
+      </segments>
+    </asterisme>
+    <asterisme id="yai">
+      <noms>
+        <nom lang="native">Yai</nom>
+        <nom lang="eng">Puma or Jaguar</nom>
+      </noms>
+      <segments ctl="58">
+        <segment hip1="17772" hip2="18453"/>
+        <segment hip1="18453" hip2="19167"/>
+        <segment hip1="19167" hip2="20070"/>
+        <segment hip1="20070" hip2="19812"/>
+        <segment hip1="19812" hip2="19343"/>
+        <segment hip1="19343" hip2="18396"/>
+        <segment hip1="18396" hip2="17358"/>
+        <segment hip1="17358" hip2="16826"/>
+        <segment hip1="16826" hip2="16244"/>
+        <segment hip1="16244" hip2="15863"/>
+        <segment hip1="15863" hip2="15444"/>
+        <segment hip1="15444" hip2="15219"/>
+        <segment hip1="15219" hip2="15979"/>
+        <segment hip1="15979" hip2="16599"/>
+        <segment hip1="16599" hip2="16292"/>
+        <segment hip1="16292" hip2="16602"/>
+        <segment hip1="16602" hip2="16281"/>
+        <segment hip1="16281" hip2="16228"/>
+        <segment hip1="16292" hip2="14328"/>
+        <segment hip1="14328" hip2="12692"/>
+        <segment hip1="12692" hip2="11279"/>
+        <segment hip1="11279" hip2="10729"/>
+        <segment hip1="10729" hip2="9990"/>
+        <segment hip1="9990" hip2="8886"/>
+        <segment hip1="8886" hip2="8626"/>
+        <segment hip1="8626" hip2="7965"/>
+        <segment hip1="7965" hip2="6692"/>
+        <segment hip1="8886" hip2="6686"/>
+        <segment hip1="6686" hip2="4422"/>
+        <segment hip1="4422" hip2="4427"/>
+        <segment hip1="4427" hip2="4962"/>
+        <segment hip1="4962" hip2="5021"/>
+        <segment hip1="5021" hip2="4475"/>
+        <segment hip1="4475" hip2="4151"/>
+        <segment hip1="4151" hip2="4427"/>
+        <segment hip1="4427" hip2="2876"/>
+        <segment hip1="2876" hip2="746"/>
+        <segment hip1="746" hip2="518"/>
+        <segment hip1="746" hip2="117863"/>
+        <segment hip1="746" hip2="117301"/>
+        <segment hip1="746" hip2="43"/>
+        <segment hip1="746" hip2="3179"/>
+        <segment hip1="3179" hip2="2611"/>
+        <segment hip1="2611" hip2="2505"/>
+        <segment hip1="2505" hip2="2920"/>
+        <segment hip1="2920" hip2="3544"/>
+        <segment hip1="3544" hip2="3179"/>
+        <segment hip1="3179" hip2="3821"/>
+        <segment hip1="3821" hip2="4422"/>
+        <segment hip1="3821" hip2="5251"/>
+        <segment hip1="5251" hip2="6371"/>
+        <segment hip1="6371" hip2="7607"/>
+        <segment hip1="7607" hip2="10814"/>
+        <segment hip1="10814" hip2="13339"/>
+        <segment hip1="13339" hip2="13965"/>
+        <segment hip1="13965" hip2="14544"/>
+        <segment hip1="14544" hip2="16335"/>
+        <segment hip1="16335" hip2="17358"/>
+      </segments>
+    </asterisme>
+    <asterisme id="nhorkoatero">
+      <noms>
+        <nom lang="native">Nhorkoatero</nom>
+        <nom lang="eng">Group of Stars</nom>
+      </noms>
+      <segments ctl="8">
+        <segment hip1="17847" hip2="17702"/>
+        <segment hip1="17702" hip2="17608"/>
+        <segment hip1="17608" hip2="17499"/>
+        <segment hip1="17499" hip2="17489"/>
+        <segment hip1="17489" hip2="17531"/>
+        <segment hip1="17531" hip2="17579"/>
+        <segment hip1="17579" hip2="17573"/>
+        <segment hip1="17573" hip2="17702"/>
+      </segments>
+    </asterisme>
+    <asterisme id="waikasa">
+      <noms>
+        <nom lang="native">Waikasa</nom>
+        <nom lang="eng">A kind of grill to cook fish</nom>
+      </noms>
+      <segments ctl="4">
+        <segment hip1="21421" hip2="20885"/>
+        <segment hip1="20885" hip2="20205"/>
+        <segment hip1="20205" hip2="20455"/>
+        <segment hip1="20455" hip2="20889"/>
+      </segments>
+    </asterisme>
+    <asterisme id="sioyahpu">
+      <noms>
+        <nom lang="native">Sioyahpu</nom>
+        <nom lang="eng">Adze Handle</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="25930" hip2="26311"/>
+        <segment hip1="26311" hip2="26727"/>
+        <segment hip1="26727" hip2="26885"/>
+        <segment hip1="26885" hip2="27989"/>
+        <segment hip1="27989" hip2="25336"/>
+        <segment hip1="25336" hip2="26594"/>
+        <segment hip1="26594" hip2="26885"/>
+      </segments>
+    </asterisme>
+    <asterisme id="yh&#233;">
+      <noms>
+        <nom lang="native">Yh&#233;</nom>
+        <nom lang="eng">Egret</nom>
+      </noms>
+      <segments ctl="22">
+        <segment hip1="61418" hip2="62356"/>
+        <segment hip1="62356" hip2="61724"/>
+        <segment hip1="61724" hip2="62886"/>
+        <segment hip1="62886" hip2="63948"/>
+        <segment hip1="61724" hip2="60957"/>
+        <segment hip1="60957" hip2="60202"/>
+        <segment hip1="60957" hip2="61420"/>
+        <segment hip1="61420" hip2="61724"/>
+        <segment hip1="61724" hip2="61719"/>
+        <segment hip1="61719" hip2="62886"/>
+        <segment hip1="61719" hip2="61295"/>
+        <segment hip1="61295" hip2="61071"/>
+        <segment hip1="61071" hip2="60941"/>
+        <segment hip1="60941" hip2="61420"/>
+        <segment hip1="60941" hip2="60351"/>
+        <segment hip1="60351" hip2="60170"/>
+        <segment hip1="60351" hip2="60514"/>
+        <segment hip1="60351" hip2="60066"/>
+        <segment hip1="61071" hip2="60904"/>
+        <segment hip1="60904" hip2="60746"/>
+        <segment hip1="60746" hip2="60697"/>
+        <segment hip1="60697" hip2="60742"/>
+      </segments>
+    </asterisme>
+    <asterisme id="yurara">
+      <noms>
+        <nom lang="native">Yurara</nom>
+        <nom lang="eng">Tortoise</nom>
+      </noms>
+      <segments ctl="4">
+        <segment hip1="60718" hip2="62434"/>
+        <segment hip1="62434" hip2="61084"/>
+        <segment hip1="61084" hip2="59747"/>
+        <segment hip1="59747" hip2="60718"/>
+      </segments>
+    </asterisme>
+    <asterisme id="sip&#233;_phair&#243;">
+      <noms>
+        <nom lang="native">Sip&#233; Phair&#243;</nom>
+        <nom lang="eng">Snake Large Anus</nom>
+      </noms>
+      <segments ctl="6">
+        <segment hip1="54061" hip2="53910"/>
+        <segment hip1="53910" hip2="58001"/>
+        <segment hip1="58001" hip2="59774"/>
+        <segment hip1="59774" hip2="62956"/>
+        <segment hip1="62956" hip2="65378"/>
+        <segment hip1="65378" hip2="67301"/>
+      </segments>
+    </asterisme>
+  </asterismes>
+  <corps_celestes/>
+</skyculture>
