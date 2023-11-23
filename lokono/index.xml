@@ -1,0 +1,238 @@
+<skyculture id="lokono" name="lokono">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>CC BY-NC-ND 4.0 International Public License</license>
+    <credit/>
+    <region>Southern America</region>
+  </metadata>
+  <descriptions>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="hr" src="description.hr.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="hithikoya">
+      <noms>
+        <nom lang="native">Hithikoya</nom>
+        <nom lang="eng">Spirit of the black curassow</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="61084" hip2="60718"/>
+        <segment hip1="62434" hip2="59747"/>
+      </segments>
+    </asterisme>
+    <asterisme id="yorhada">
+      <noms>
+        <nom lang="native">Yorhada</nom>
+        <nom lang="eng">Grill</nom>
+      </noms>
+      <segments ctl="4">
+        <segment hip1="1067" hip2="113963"/>
+        <segment hip1="113963" hip2="113881"/>
+        <segment hip1="113881" hip2="677"/>
+        <segment hip1="677" hip2="1067"/>
+      </segments>
+    </asterisme>
+    <asterisme id="y&#244;koro_wiwa">
+      <noms>
+        <nom lang="native">Y&#244;koro wiwa</nom>
+        <nom lang="eng">Scores of stars</nom>
+      </noms>
+      <segments ctl="6">
+        <segment hip1="17847" hip2="17702"/>
+        <segment hip1="17702" hip2="17608"/>
+        <segment hip1="17608" hip2="17499"/>
+        <segment hip1="17499" hip2="17489"/>
+        <segment hip1="17489" hip2="17531"/>
+        <segment hip1="17531" hip2="17702"/>
+      </segments>
+    </asterisme>
+    <asterisme id="mabukuli">
+      <noms>
+        <nom lang="native">Mabukuli</nom>
+        <nom lang="eng">Man without a thigh</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="26727" hip2="26311"/>
+        <segment hip1="26311" hip2="25930"/>
+      </segments>
+    </asterisme>
+    <asterisme id="kama_t&#226;la">
+      <noms>
+        <nom lang="native">Kama t&#226;la</nom>
+        <nom lang="eng">Jaw of the tapir</nom>
+      </noms>
+      <segments ctl="4">
+        <segment hip1="21421" hip2="20885"/>
+        <segment hip1="20885" hip2="20205"/>
+        <segment hip1="20205" hip2="20455"/>
+        <segment hip1="20455" hip2="20889"/>
+      </segments>
+    </asterisme>
+    <asterisme id="awarhakoya">
+      <noms>
+        <nom lang="native">Awarhakoya</nom>
+        <nom lang="eng">Spirit of the awara palm</nom>
+      </noms>
+      <segments ctl="18">
+        <segment hip1="64394" hip2="64022"/>
+        <segment hip1="64022" hip2="62763"/>
+        <segment hip1="62763" hip2="62576"/>
+        <segment hip1="62576" hip2="60904"/>
+        <segment hip1="60904" hip2="60746"/>
+        <segment hip1="60746" hip2="60697"/>
+        <segment hip1="60697" hip2="60742"/>
+        <segment hip1="60904" hip2="61071"/>
+        <segment hip1="61071" hip2="61295"/>
+        <segment hip1="60904" hip2="60514"/>
+        <segment hip1="60514" hip2="60170"/>
+        <segment hip1="60904" hip2="60941"/>
+        <segment hip1="60904" hip2="60351"/>
+        <segment hip1="60351" hip2="60168"/>
+        <segment hip1="60904" hip2="60525"/>
+        <segment hip1="60525" hip2="60327"/>
+        <segment hip1="60904" hip2="60599"/>
+        <segment hip1="60904" hip2="60197"/>
+      </segments>
+    </asterisme>
+    <asterisme id="kwakoya">
+      <noms>
+        <nom lang="native">Kwakoya</nom>
+        <nom lang="eng">Spirit of the blue crab</nom>
+      </noms>
+      <segments ctl="25">
+        <segment hip1="26126" hip2="25861"/>
+        <segment hip1="25861" hip2="25473"/>
+        <segment hip1="25473" hip2="25142"/>
+        <segment hip1="25142" hip2="24817"/>
+        <segment hip1="24817" hip2="24607"/>
+        <segment hip1="24607" hip2="24203"/>
+        <segment hip1="24203" hip2="23680"/>
+        <segment hip1="23680" hip2="23123"/>
+        <segment hip1="23123" hip2="22797"/>
+        <segment hip1="22797" hip2="22549"/>
+        <segment hip1="22549" hip2="22449"/>
+        <segment hip1="22449" hip2="22509"/>
+        <segment hip1="26207" hip2="26366"/>
+        <segment hip1="22509" hip2="22833"/>
+        <segment hip1="22833" hip2="22957"/>
+        <segment hip1="22957" hip2="23607"/>
+        <segment hip1="23607" hip2="24197"/>
+        <segment hip1="24197" hip2="25216"/>
+        <segment hip1="25216" hip2="25555"/>
+        <segment hip1="25555" hip2="25790"/>
+        <segment hip1="25790" hip2="26093"/>
+        <segment hip1="26093" hip2="26207"/>
+        <segment hip1="26207" hip2="26366"/>
+        <segment hip1="26366" hip2="26518"/>
+        <segment hip1="26518" hip2="26487"/>
+      </segments>
+    </asterisme>
+    <asterisme id="anorh&#226;koya">
+      <noms>
+        <nom lang="native">Anorh&#226;koya</nom>
+        <nom lang="eng">Spirit of the cocoi heron</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="67301" hip2="65378"/>
+        <segment hip1="65378" hip2="62956"/>
+        <segment hip1="62956" hip2="59774"/>
+        <segment hip1="59774" hip2="54061"/>
+        <segment hip1="54061" hip2="53910"/>
+        <segment hip1="53910" hip2="58001"/>
+        <segment hip1="58001" hip2="59774"/>
+      </segments>
+    </asterisme>
+    <asterisme id="kasarhowakoya">
+      <noms>
+        <nom lang="native">Kasarhowakoya</nom>
+        <nom lang="eng">Spirit of the four-eyed fish</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="85696" hip2="85927"/>
+      </segments>
+    </asterisme>
+    <asterisme id="katarokoya">
+      <noms>
+        <nom lang="native">Katarokoya</nom>
+        <nom lang="eng">Spirit of green sea turtle</nom>
+      </noms>
+      <segments ctl="17">
+        <segment hip1="81693" hip2="83207"/>
+        <segment hip1="81693" hip2="80816"/>
+        <segment hip1="80816" hip2="80170"/>
+        <segment hip1="80170" hip2="78072"/>
+        <segment hip1="78072" hip2="77233"/>
+        <segment hip1="77233" hip2="77450"/>
+        <segment hip1="81693" hip2="81833"/>
+        <segment hip1="81833" hip2="81126"/>
+        <segment hip1="81126" hip2="79992"/>
+        <segment hip1="79992" hip2="79101"/>
+        <segment hip1="81693" hip2="78159"/>
+        <segment hip1="78159" hip2="77512"/>
+        <segment hip1="77512" hip2="76952"/>
+        <segment hip1="76952" hip2="76267"/>
+        <segment hip1="76267" hip2="75695"/>
+        <segment hip1="75695" hip2="74666"/>
+        <segment hip1="74666" hip2="75411"/>
+      </segments>
+    </asterisme>
+    <asterisme id="ifakoya">
+      <noms>
+        <nom lang="native">Ifakoya</nom>
+        <nom lang="eng">Spirit of the Muscovy duck</nom>
+      </noms>
+      <segments ctl="33">
+        <segment hip1="93174" hip2="93425"/>
+        <segment hip1="93425" hip2="93825"/>
+        <segment hip1="93825" hip2="94114"/>
+        <segment hip1="94114" hip2="94160"/>
+        <segment hip1="94160" hip2="94005"/>
+        <segment hip1="94005" hip2="93542"/>
+        <segment hip1="93542" hip2="92953"/>
+        <segment hip1="92953" hip2="91494"/>
+        <segment hip1="91494" hip2="90842"/>
+        <segment hip1="90842" hip2="90200"/>
+        <segment hip1="90200" hip2="89507"/>
+        <segment hip1="89507" hip2="88726"/>
+        <segment hip1="88726" hip2="87936"/>
+        <segment hip1="87936" hip2="87390"/>
+        <segment hip1="87390" hip2="87073"/>
+        <segment hip1="87073" hip2="86670"/>
+        <segment hip1="86670" hip2="87294"/>
+        <segment hip1="87294" hip2="87865"/>
+        <segment hip1="87865" hip2="90037"/>
+        <segment hip1="90037" hip2="90968"/>
+        <segment hip1="90968" hip2="91875"/>
+        <segment hip1="91875" hip2="92989"/>
+        <segment hip1="92989" hip2="93174"/>
+        <segment hip1="90037" hip2="89642"/>
+        <segment hip1="89642" hip2="90185"/>
+        <segment hip1="90185" hip2="90763"/>
+        <segment hip1="90763" hip2="91014"/>
+        <segment hip1="91014" hip2="91918"/>
+        <segment hip1="91918" hip2="91875"/>
+        <segment hip1="89290" hip2="90982"/>
+        <segment hip1="90982" hip2="92226"/>
+        <segment hip1="92226" hip2="91992"/>
+        <segment hip1="91992" hip2="90887"/>
+      </segments>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <astre naif="10" name="Sun">Hadali</astre>
+    <astre naif="301" name="Moon">Kathi</astre>
+    <astre naif="299" name="Venus">Warhokoma</astre>
+    <astre naif="599" name="Jupiter">Wiwa kalemero</astre>
+    <etoile hip="68702">Al&#234;ti</etoile>
+    <etoile hip="71683">Yokh&#226;rhin</etoile>
+    <etoile hip="32349">Mali</etoile>
+  </corps_celestes>
+</skyculture>
