@@ -1,0 +1,243 @@
+<skyculture id="tupi" name="tupi">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>GNU GPL v2.0</license>
+    <credit/>
+    <region>Southern America</region>
+  </metadata>
+  <descriptions>
+    <description lang="de" src="description.de.utf8"/>
+    <description lang="zh_CN" src="description.zh_CN.utf8"/>
+    <description lang="be" src="description.be.utf8"/>
+    <description lang="pt_BR" src="description.pt_BR.utf8"/>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="zh_TW" src="description.zh_TW.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="it" src="description.it.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="hr" src="description.hr.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="ar" src="description.ar.utf8"/>
+    <description lang="zh_HK" src="description.zh_HK.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="fr" src="description.fr.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="ema_guira_nhandu">
+      <noms>
+        <nom lang="native">Ema (Guira-nhandu)</nom>
+        <nom lang="eng">White Ostrich</nom>
+      </noms>
+      <segments ctl="43">
+        <segment hip1="78820" hip2="78401"/>
+        <segment hip1="78933" hip2="78401"/>
+        <segment hip1="78401" hip2="78265"/>
+        <segment hip1="78265" hip2="78104"/>
+        <segment hip1="78104" hip2="77634"/>
+        <segment hip1="77634" hip2="76297"/>
+        <segment hip1="76297" hip2="74395"/>
+        <segment hip1="74395" hip2="74824"/>
+        <segment hip1="74824" hip2="70264"/>
+        <segment hip1="70264" hip2="62268"/>
+        <segment hip1="62268" hip2="60718"/>
+        <segment hip1="60718" hip2="61585"/>
+        <segment hip1="61585" hip2="62322"/>
+        <segment hip1="62322" hip2="64094"/>
+        <segment hip1="64094" hip2="65387"/>
+        <segment hip1="65387" hip2="72131"/>
+        <segment hip1="72131" hip2="77952"/>
+        <segment hip1="77952" hip2="79664"/>
+        <segment hip1="79664" hip2="82363"/>
+        <segment hip1="82363" hip2="83081"/>
+        <segment hip1="83081" hip2="83153"/>
+        <segment hip1="83153" hip2="85792"/>
+        <segment hip1="85792" hip2="89096"/>
+        <segment hip1="89096" hip2="88726"/>
+        <segment hip1="89096" hip2="87936"/>
+        <segment hip1="89096" hip2="87846"/>
+        <segment hip1="83153" hip2="83057"/>
+        <segment hip1="83057" hip2="82729"/>
+        <segment hip1="82729" hip2="82514"/>
+        <segment hip1="82514" hip2="82396"/>
+        <segment hip1="82396" hip2="81266"/>
+        <segment hip1="81266" hip2="80763"/>
+        <segment hip1="80763" hip2="80112"/>
+        <segment hip1="80112" hip2="78401"/>
+        <segment hip1="82729" hip2="84143"/>
+        <segment hip1="84143" hip2="86228"/>
+        <segment hip1="86228" hip2="87073"/>
+        <segment hip1="87073" hip2="86670"/>
+        <segment hip1="87073" hip2="85927"/>
+        <segment hip1="79374" hip2="78933"/>
+        <segment hip1="87261" hip2="87073"/>
+        <segment hip1="87073" hip2="86698"/>
+        <segment hip1="86670" hip2="85927"/>
+      </segments>
+    </asterisme>
+    <asterisme id="homem_velho_tuivae">
+      <noms>
+        <nom lang="native">Homem Velho (Tuivae)</nom>
+        <nom lang="eng">Old Man</nom>
+      </noms>
+      <segments ctl="22">
+        <segment hip1="25336" hip2="25930"/>
+        <segment hip1="25930" hip2="26311"/>
+        <segment hip1="26311" hip2="26727"/>
+        <segment hip1="26727" hip2="27366"/>
+        <segment hip1="25336" hip2="27989"/>
+        <segment hip1="21421" hip2="25336"/>
+        <segment hip1="21421" hip2="20894"/>
+        <segment hip1="21421" hip2="20889"/>
+        <segment hip1="20889" hip2="20455"/>
+        <segment hip1="20455" hip2="20205"/>
+        <segment hip1="20205" hip2="20894"/>
+        <segment hip1="20455" hip2="17847"/>
+        <segment hip1="22449" hip2="22509"/>
+        <segment hip1="22509" hip2="22845"/>
+        <segment hip1="22449" hip2="22549"/>
+        <segment hip1="22797" hip2="22549"/>
+        <segment hip1="24010" hip2="23607"/>
+        <segment hip1="24010" hip2="24197"/>
+        <segment hip1="22845" hip2="23607"/>
+        <segment hip1="24436" hip2="23875"/>
+        <segment hip1="23607" hip2="22845"/>
+        <segment hip1="22797" hip2="23875"/>
+      </segments>
+    </asterisme>
+    <asterisme id="anta_do_norte_tapii">
+      <noms>
+        <nom lang="native">Anta do Norte (Tapi'i)</nom>
+        <nom lang="eng">Anta do Norte (Tapi'i)</nom>
+      </noms>
+      <segments ctl="31">
+        <segment hip1="109492" hip2="112724"/>
+        <segment hip1="109492" hip2="107418"/>
+        <segment hip1="107418" hip2="105199"/>
+        <segment hip1="109492" hip2="110991"/>
+        <segment hip1="110991" hip2="114104"/>
+        <segment hip1="114104" hip2="746"/>
+        <segment hip1="746" hip2="3179"/>
+        <segment hip1="3179" hip2="3300"/>
+        <segment hip1="3300" hip2="3821"/>
+        <segment hip1="3300" hip2="117221"/>
+        <segment hip1="117221" hip2="116584"/>
+        <segment hip1="116584" hip2="110351"/>
+        <segment hip1="110351" hip2="106711"/>
+        <segment hip1="106711" hip2="105102"/>
+        <segment hip1="106711" hip2="106551"/>
+        <segment hip1="105102" hip2="104887"/>
+        <segment hip1="6686" hip2="4427"/>
+        <segment hip1="105102" hip2="103413"/>
+        <segment hip1="103413" hip2="102843"/>
+        <segment hip1="102843" hip2="102098"/>
+        <segment hip1="102098" hip2="102724"/>
+        <segment hip1="102724" hip2="104060"/>
+        <segment hip1="104060" hip2="103632"/>
+        <segment hip1="107930" hip2="109492"/>
+        <segment hip1="107533" hip2="107930"/>
+        <segment hip1="107533" hip2="103632"/>
+        <segment hip1="746" hip2="1960"/>
+        <segment hip1="1960" hip2="2599"/>
+        <segment hip1="2599" hip2="3951"/>
+        <segment hip1="3951" hip2="5589"/>
+        <segment hip1="4427" hip2="746"/>
+      </segments>
+    </asterisme>
+    <asterisme id="veado">
+      <noms>
+        <nom lang="native">Veado</nom>
+        <nom lang="eng">Veado</nom>
+      </noms>
+      <segments ctl="42">
+        <segment hip1="60718" hip2="60260"/>
+        <segment hip1="60260" hip2="59747"/>
+        <segment hip1="59747" hip2="62434"/>
+        <segment hip1="62434" hip2="61084"/>
+        <segment hip1="60718" hip2="60009"/>
+        <segment hip1="60009" hip2="62322"/>
+        <segment hip1="62322" hip2="63613"/>
+        <segment hip1="63613" hip2="61585"/>
+        <segment hip1="61585" hip2="59072"/>
+        <segment hip1="59072" hip2="61199"/>
+        <segment hip1="61199" hip2="57363"/>
+        <segment hip1="57363" hip2="56862"/>
+        <segment hip1="56862" hip2="52419"/>
+        <segment hip1="52419" hip2="50954"/>
+        <segment hip1="50954" hip2="50099"/>
+        <segment hip1="50099" hip2="51313"/>
+        <segment hip1="51313" hip2="48002"/>
+        <segment hip1="48002" hip2="45238"/>
+        <segment hip1="45238" hip2="47854"/>
+        <segment hip1="47854" hip2="50371"/>
+        <segment hip1="50371" hip2="45556"/>
+        <segment hip1="45556" hip2="45080"/>
+        <segment hip1="45080" hip2="42913"/>
+        <segment hip1="39953" hip2="42312"/>
+        <segment hip1="42312" hip2="42884"/>
+        <segment hip1="42884" hip2="44816"/>
+        <segment hip1="44816" hip2="46651"/>
+        <segment hip1="44816" hip2="45448"/>
+        <segment hip1="44816" hip2="45085"/>
+        <segment hip1="45085" hip2="44511"/>
+        <segment hip1="44511" hip2="45941"/>
+        <segment hip1="45941" hip2="48774"/>
+        <segment hip1="39953" hip2="41039"/>
+        <segment hip1="41039" hip2="41616"/>
+        <segment hip1="41616" hip2="42088"/>
+        <segment hip1="42088" hip2="42834"/>
+        <segment hip1="42834" hip2="42913"/>
+        <segment hip1="42834" hip2="44511"/>
+        <segment hip1="48774" hip2="51523"/>
+        <segment hip1="51523" hip2="55425"/>
+        <segment hip1="55425" hip2="60059"/>
+        <segment hip1="60059" hip2="61084"/>
+      </segments>
+    </asterisme>
+    <asterisme id="joykexo">
+      <noms>
+        <nom lang="native">Joykexo</nom>
+        <nom lang="eng">Joykexo</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="25930" hip2="26311"/>
+        <segment hip1="26311" hip2="26727"/>
+      </segments>
+    </asterisme>
+    <asterisme id="vespeiro_eixu">
+      <noms>
+        <nom lang="native">Vespeiro (Eixu)</nom>
+        <nom lang="eng">Vespeiro (Eixu)</nom>
+      </noms>
+      <segments ctl="6">
+        <segment hip1="17847" hip2="17702"/>
+        <segment hip1="17702" hip2="17608"/>
+        <segment hip1="17608" hip2="17573"/>
+        <segment hip1="17702" hip2="17499"/>
+        <segment hip1="17573" hip2="17531"/>
+        <segment hip1="17573" hip2="17579"/>
+      </segments>
+    </asterisme>
+    <asterisme id="queixada_da_anta_tapii_rainhyka">
+      <noms>
+        <nom lang="native">Queixada da Anta (Tapi'i rainhyka)</nom>
+        <nom lang="eng">Queixada da Anta (Tapi'i rainhyka)</nom>
+      </noms>
+      <segments ctl="5">
+        <segment hip1="20205" hip2="20455"/>
+        <segment hip1="20455" hip2="20889"/>
+        <segment hip1="20889" hip2="21421"/>
+        <segment hip1="21421" hip2="20894"/>
+        <segment hip1="20894" hip2="20205"/>
+      </segments>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <etoile hip="61199">Quira-Rupia</etoile>
+    <etoile hip="63613">Quira-Rupia</etoile>
+  </corps_celestes>
+</skyculture>
