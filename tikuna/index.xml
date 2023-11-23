@@ -1,0 +1,100 @@
+<skyculture id="tikuna" name="tikuna">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>CC BY-SA 4.0 International Public License</license>
+    <credit/>
+    <region>South America</region>
+  </metadata>
+  <descriptions>
+    <description lang="pt_BR" src="description.pt_BR.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="baweta">
+      <noms>
+        <nom lang="native">Baweta</nom>
+        <nom lang="eng">Turtle Collective</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="17702" hip2="17448"/>
+        <segment hip1="17702" hip2="18246"/>
+      </segments>
+      <stellarium_figure src="illustrations/Baweta.png" width="445" height="283">
+        <ancre hip="17702" x="270" y="173"/>
+        <ancre hip="18246" x="87" y="96"/>
+        <ancre hip="17448" x="109" y="65"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="w&#252;c&#252;tcha">
+      <noms>
+        <nom lang="native">W&#252;c&#252;tcha</nom>
+        <nom lang="eng">W&#252;c&#252;tcha's leg</nom>
+      </noms>
+      <segments ctl="8">
+        <segment hip1="25930" hip2="26311"/>
+        <segment hip1="26311" hip2="26727"/>
+        <segment hip1="26311" hip2="26241"/>
+        <segment hip1="26241" hip2="27366"/>
+        <segment hip1="27366" hip2="28103"/>
+        <segment hip1="28103" hip2="28816"/>
+        <segment hip1="28816" hip2="27654"/>
+        <segment hip1="27654" hip2="26862"/>
+      </segments>
+      <stellarium_figure src="illustrations/Wucutcha.png" width="514" height="294">
+        <ancre hip="25930" x="47" y="88"/>
+        <ancre hip="26311" x="66" y="105"/>
+        <ancre hip="26727" x="84" y="124"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="coyatchic&#252;ra">
+      <noms>
+        <nom lang="native">Coyatchic&#252;ra</nom>
+        <nom lang="eng">Cayman&#8217;s Jaw</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="21421" hip2="20205"/>
+        <segment hip1="20205" hip2="20889"/>
+      </segments>
+      <stellarium_figure src="illustrations/Coyatchicura.png" width="1005" height="548">
+        <ancre hip="21421" x="883" y="127"/>
+        <ancre hip="23416" x="352" y="445"/>
+        <ancre hip="14328" x="36" y="236"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="tchat&#252;_ai">
+      <noms>
+        <nom lang="native">Tchat&#252;-Ai</nom>
+        <nom lang="eng">Anteater&#8217;s Jaguar</nom>
+      </noms>
+      <segments ctl="14">
+        <segment hip1="60718" hip2="59747"/>
+        <segment hip1="59747" hip2="61084"/>
+        <segment hip1="61084" hip2="66657"/>
+        <segment hip1="66657" hip2="74395"/>
+        <segment hip1="74395" hip2="71683"/>
+        <segment hip1="71683" hip2="71908"/>
+        <segment hip1="74395" hip2="82396"/>
+        <segment hip1="82396" hip2="80763"/>
+        <segment hip1="82396" hip2="85927"/>
+        <segment hip1="84143" hip2="86228"/>
+        <segment hip1="86228" hip2="83081"/>
+        <segment hip1="83081" hip2="82363"/>
+        <segment hip1="82363" hip2="79664"/>
+        <segment hip1="79664" hip2="77952"/>
+      </segments>
+      <stellarium_figure src="illustrations/Tchatu_Ai.png" width="862" height="688">
+        <ancre hip="60718" x="96" y="35"/>
+        <ancre hip="66657" x="110" y="223"/>
+        <ancre hip="80763" x="433" y="656"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes/>
+</skyculture>
