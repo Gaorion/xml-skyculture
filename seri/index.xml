@@ -1,0 +1,267 @@
+<skyculture id="seri" name="seri">
+  <metadata>
+    <classification type="traditional"/>
+    <license>CC BY-SA 4.0 International Public License</license>
+    <credit/>
+    <region>Central America</region>
+  </metadata>
+  <descriptions>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="zaamth">
+      <noms>
+        <nom lang="native">Zaamth</nom>
+        <nom lang="eng">Zaamth (Crab)</nom>
+      </noms>
+      <segments ctl="12">
+        <segment hip1="25281" hip2="24436"/>
+        <segment hip1="24436" hip2="26241"/>
+        <segment hip1="26241" hip2="26727"/>
+        <segment hip1="26727" hip2="26311"/>
+        <segment hip1="26311" hip2="25930"/>
+        <segment hip1="25930" hip2="25281"/>
+        <segment hip1="25281" hip2="24436"/>
+        <segment hip1="25930" hip2="26366"/>
+        <segment hip1="26366" hip2="27989"/>
+        <segment hip1="27989" hip2="26727"/>
+        <segment hip1="25336" hip2="26366"/>
+        <segment hip1="24436" hip2="23875"/>
+      </segments>
+      <stellarium_figure src="illustrations/zaamth.png" width="512" height="512">
+        <ancre hip="23875" x="196" y="324"/>
+        <ancre hip="24436" x="108" y="250"/>
+        <ancre hip="27989" x="467" y="171"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="cohamc">
+      <noms>
+        <nom lang="native">Cohamc</nom>
+        <nom lang="eng">Cohamc (The wife and husband)</nom>
+      </noms>
+      <segments ctl="6">
+        <segment hip1="54061" hip2="53910"/>
+        <segment hip1="53910" hip2="54539"/>
+        <segment hip1="54539" hip2="55219"/>
+        <segment hip1="55219" hip2="55203"/>
+        <segment hip1="55203" hip2="54951"/>
+        <segment hip1="54951" hip2="54872"/>
+      </segments>
+      <stellarium_figure src="illustrations/cohamc.png" width="512" height="512">
+        <ancre hip="54061" x="44" y="31"/>
+        <ancre hip="53910" x="96" y="80"/>
+        <ancre hip="54539" x="195" y="206"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="haapjc">
+      <noms>
+        <nom lang="native">Haapjc</nom>
+        <nom lang="eng">Haapjc (The deer hunter)</nom>
+      </noms>
+      <segments ctl="8">
+        <segment hip1="37826" hip2="36962"/>
+        <segment hip1="36962" hip2="36429"/>
+        <segment hip1="36429" hip2="36046"/>
+        <segment hip1="36046" hip2="36850"/>
+        <segment hip1="36850" hip2="37826"/>
+        <segment hip1="37629" hip2="20205"/>
+        <segment hip1="21421" hip2="20205"/>
+        <segment hip1="20205" hip2="20889"/>
+      </segments>
+      <stellarium_figure src="illustrations/haapjc.png" width="512" height="512">
+        <ancre hip="20205" x="166" y="40"/>
+        <ancre hip="37826" x="422" y="400"/>
+        <ancre hip="36850" x="379" y="406"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="caamoilcoj">
+      <noms>
+        <nom lang="native">Caamoilcoj</nom>
+        <nom lang="eng">Caamoilcoj (Wheel game)</nom>
+      </noms>
+      <segments ctl="6">
+        <segment hip1="58001" hip2="59774"/>
+        <segment hip1="59774" hip2="62956"/>
+        <segment hip1="62956" hip2="65378"/>
+        <segment hip1="65378" hip2="66634"/>
+        <segment hip1="66634" hip2="67301"/>
+        <segment hip1="60485" hip2="60988"/>
+      </segments>
+      <stellarium_figure src="illustrations/caamoilcoj.png" width="512" height="512">
+        <ancre hip="65378" x="120" y="140"/>
+        <ancre hip="62956" x="197" y="98"/>
+        <ancre hip="67301" x="69" y="260"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="haacosah">
+      <noms>
+        <nom lang="native">Haacosah</nom>
+        <nom lang="eng">Haacosah (Pitahayas cutter)</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="746" hip2="4427"/>
+        <segment hip1="4427" hip2="6686"/>
+        <segment hip1="3179" hip2="4427"/>
+      </segments>
+      <stellarium_figure src="illustrations/hacosa.png" width="512" height="512">
+        <ancre hip="746" x="240" y="290"/>
+        <ancre hip="4427" x="247" y="239"/>
+        <ancre hip="3179" x="196" y="271"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="hant">
+      <noms>
+        <nom lang="native">Hant</nom>
+        <nom lang="eng">Hazoj canoj (He who comes at sunrise)</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="32349" hip2="31758"/>
+        <segment hip1="31758" hip2="32349"/>
+      </segments>
+      <stellarium_figure src="illustrations/hazoj_canoj.png" width="512" height="512">
+        <ancre hip="32349" x="256" y="231"/>
+        <ancre hip="33347" x="202" y="174"/>
+        <ancre hip="31592" x="232" y="339"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="yay_xapi_hanopas">
+      <noms>
+        <nom lang="native">Yay xapi hanopas</nom>
+        <nom lang="eng">Yay xapi hanopas (Young hunter)</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="30438" hip2="31685"/>
+        <segment hip1="31685" hip2="30438"/>
+      </segments>
+      <stellarium_figure src="illustrations/yay_xapi.png" width="512" height="512">
+        <ancre hip="30438" x="252" y="251"/>
+        <ancre hip="31685" x="148" y="95"/>
+        <ancre hip="32768" x="173" y="240"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="quetoh">
+      <noms>
+        <nom lang="native">Quetoh</nom>
+        <nom lang="eng">Quetoh (Small dove)</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="69673" hip2="67927"/>
+      </segments>
+      <stellarium_figure src="illustrations/quetoh.png" width="512" height="512">
+        <ancre hip="69673" x="252" y="213"/>
+        <ancre hip="67927" x="345" y="158"/>
+        <ancre hip="67459" x="399" y="185"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="coozactim">
+      <noms>
+        <nom lang="native">Coozactim</nom>
+        <nom lang="eng">Coozactim (Hunter)</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="24608" hip2="27196"/>
+        <segment hip1="27196" hip2="28360"/>
+      </segments>
+      <stellarium_figure src="illustrations/coozactim.png" width="512" height="512">
+        <ancre hip="24608" x="234" y="82"/>
+        <ancre hip="28360" x="326" y="241"/>
+        <ancre hip="28358" x="109" y="313"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="hap">
+      <noms>
+        <nom lang="native">Hap</nom>
+        <nom lang="eng">Hap (Deer)</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="23015" hip2="25428"/>
+        <segment hip1="25428" hip2="26451"/>
+      </segments>
+      <stellarium_figure src="illustrations/haapjv.png" width="512" height="512">
+        <ancre hip="23015" x="73" y="125"/>
+        <ancre hip="25428" x="207" y="312"/>
+        <ancre hip="26451" x="425" y="399"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="hee">
+      <noms>
+        <nom lang="native">Hee</nom>
+        <nom lang="eng">Hee (Hare)</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="91262" hip2="92791"/>
+      </segments>
+      <stellarium_figure src="illustrations/hee.png" width="512" height="512">
+        <ancre hip="91262" x="252" y="207"/>
+        <ancre hip="91926" x="294" y="175"/>
+        <ancre hip="91971" x="232" y="147"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="hazoj_koii">
+      <noms>
+        <nom lang="native">Hazoj-Koii</nom>
+        <nom lang="eng">Hazoj Koii (Person)</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="80763" hip2="79593"/>
+        <segment hip1="79593" hip2="86032"/>
+        <segment hip1="86032" hip2="80816"/>
+        <segment hip1="80816" hip2="86974"/>
+        <segment hip1="86032" hip2="87933"/>
+        <segment hip1="80763" hip2="84012"/>
+        <segment hip1="84012" hip2="86032"/>
+      </segments>
+      <stellarium_figure src="illustrations/hazoj_koii.png" width="512" height="512">
+        <ancre hip="80763" x="123" y="400"/>
+        <ancre hip="79593" x="261" y="335"/>
+        <ancre hip="86032" x="276" y="178"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="himatax">
+      <noms>
+        <nom lang="native">Himatax</nom>
+        <nom lang="eng">Hazoj Himatax (Polar star)</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="11767" hip2="11767"/>
+      </segments>
+      <stellarium_figure src="illustrations/himatax.png" width="512" height="512">
+        <ancre hip="11767" x="275" y="255"/>
+        <ancre hip="116727" x="207" y="302"/>
+        <ancre hip="82080" x="320" y="294"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <etoile hip="4427">Haacoosah</etoile>
+    <etoile hip="11767">Himatax</etoile>
+    <etoile hip="21421">Haxl'c</etoile>
+    <etoile hip="23015">Heepem</etoile>
+    <etoile hip="24608">Coozactim</etoile>
+    <etoile hip="25428">Hap</etoile>
+    <etoile hip="26311">Zaamth</etoile>
+    <etoile hip="30438">Yay Hapi Hanopas</etoile>
+    <etoile hip="32349">Caanooj Haantifica&#246;</etoile>
+    <etoile hip="37279">Naapxah</etoile>
+    <etoile hip="37826">Hiasim</etoile>
+    <etoile hip="53229">Coamc</etoile>
+    <etoile hip="53910">Coohaamc</etoile>
+    <etoile hip="54061">Coam'c</etoile>
+    <etoile hip="54872">Coohaamc</etoile>
+    <etoile hip="55203">Coohaamc</etoile>
+    <etoile hip="55219">Coohaamc</etoile>
+    <etoile hip="62956">Caamooiilcooj</etoile>
+    <etoile hip="67301">Camoilcoj</etoile>
+    <etoile hip="69673">Quetoh</etoile>
+    <etoile hip="71075">Hazoj C&#246;iiqui</etoile>
+    <etoile hip="80763">Hazoj K&#246;ii</etoile>
+    <etoile hip="91262">Hee</etoile>
+  </corps_celestes>
+</skyculture>
