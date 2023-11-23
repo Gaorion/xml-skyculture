@@ -1,0 +1,223 @@
+<skyculture id="navajo" name="navajo">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>GNU GPL v2.0</license>
+    <credit/>
+    <region>Northern America</region>
+  </metadata>
+  <descriptions>
+    <description lang="de" src="description.de.utf8"/>
+    <description lang="zh_CN" src="description.zh_CN.utf8"/>
+    <description lang="be" src="description.be.utf8"/>
+    <description lang="pt_BR" src="description.pt_BR.utf8"/>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="bs" src="description.bs.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="it" src="description.it.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="hr" src="description.hr.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="ar" src="description.ar.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="fr" src="description.fr.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="revolving_male">
+      <noms>
+        <nom lang="native">Revolving Male</nom>
+        <nom lang="eng">Revolving Male</nom>
+      </noms>
+      <segments ctl="23">
+        <segment hip1="67429" hip2="67848"/>
+        <segment hip1="67848" hip2="65378"/>
+        <segment hip1="65378" hip2="64839"/>
+        <segment hip1="64839" hip2="61611"/>
+        <segment hip1="64839" hip2="64906"/>
+        <segment hip1="64906" hip2="67301"/>
+        <segment hip1="67301" hip2="67429"/>
+        <segment hip1="61611" hip2="62956"/>
+        <segment hip1="62956" hip2="68756"/>
+        <segment hip1="62956" hip2="59774"/>
+        <segment hip1="59774" hip2="54061"/>
+        <segment hip1="54061" hip2="46733"/>
+        <segment hip1="46733" hip2="45075"/>
+        <segment hip1="45075" hip2="42527"/>
+        <segment hip1="54061" hip2="53910"/>
+        <segment hip1="53910" hip2="51459"/>
+        <segment hip1="51459" hip2="48402"/>
+        <segment hip1="48402" hip2="47006"/>
+        <segment hip1="53910" hip2="58001"/>
+        <segment hip1="58001" hip2="60485"/>
+        <segment hip1="60485" hip2="61611"/>
+        <segment hip1="60485" hip2="62223"/>
+        <segment hip1="62223" hip2="63125"/>
+      </segments>
+    </asterisme>
+    <asterisme id="revolving_female">
+      <noms>
+        <nom lang="native">Revolving Female</nom>
+        <nom lang="eng">Revolving Female</nom>
+      </noms>
+      <segments ctl="17">
+        <segment hip1="13268" hip2="10000"/>
+        <segment hip1="10000" hip2="8886"/>
+        <segment hip1="8886" hip2="7984"/>
+        <segment hip1="7984" hip2="9480"/>
+        <segment hip1="8886" hip2="10388"/>
+        <segment hip1="7984" hip2="4427"/>
+        <segment hip1="4427" hip2="746"/>
+        <segment hip1="746" hip2="110991"/>
+        <segment hip1="746" hip2="2920"/>
+        <segment hip1="2920" hip2="116584"/>
+        <segment hip1="2920" hip2="6686"/>
+        <segment hip1="6686" hip2="10000"/>
+        <segment hip1="10388" hip2="10557"/>
+        <segment hip1="10557" hip2="12222"/>
+        <segment hip1="12222" hip2="11569"/>
+        <segment hip1="11569" hip2="9909"/>
+        <segment hip1="9909" hip2="10388"/>
+      </segments>
+    </asterisme>
+    <asterisme id="man_with_feet_apart">
+      <noms>
+        <nom lang="native">Man with Feet Apart</nom>
+        <nom lang="eng">Man with Feet Apart</nom>
+      </noms>
+      <segments ctl="19">
+        <segment hip1="61941" hip2="64238"/>
+        <segment hip1="64238" hip2="61740"/>
+        <segment hip1="61740" hip2="60965"/>
+        <segment hip1="60965" hip2="61359"/>
+        <segment hip1="61359" hip2="62683"/>
+        <segment hip1="61359" hip2="59316"/>
+        <segment hip1="59316" hip2="59199"/>
+        <segment hip1="59199" hip2="57936"/>
+        <segment hip1="59316" hip2="59803"/>
+        <segment hip1="59803" hip2="60019"/>
+        <segment hip1="60019" hip2="56633"/>
+        <segment hip1="60019" hip2="60816"/>
+        <segment hip1="60816" hip2="61740"/>
+        <segment hip1="60816" hip2="60900"/>
+        <segment hip1="60900" hip2="59961"/>
+        <segment hip1="59961" hip2="59872"/>
+        <segment hip1="59872" hip2="61578"/>
+        <segment hip1="61578" hip2="61542"/>
+        <segment hip1="61542" hip2="60900"/>
+      </segments>
+    </asterisme>
+    <asterisme id="lizard">
+      <noms>
+        <nom lang="native">Lizard</nom>
+        <nom lang="eng">Lizard</nom>
+      </noms>
+      <segments ctl="18">
+        <segment hip1="12777" hip2="9808"/>
+        <segment hip1="9808" hip2="7607"/>
+        <segment hip1="12777" hip2="10777"/>
+        <segment hip1="10777" hip2="9640"/>
+        <segment hip1="7607" hip2="8068"/>
+        <segment hip1="8068" hip2="9505"/>
+        <segment hip1="7607" hip2="4436"/>
+        <segment hip1="4436" hip2="1366"/>
+        <segment hip1="4436" hip2="2912"/>
+        <segment hip1="2912" hip2="114"/>
+        <segment hip1="114" hip2="113881"/>
+        <segment hip1="113881" hip2="677"/>
+        <segment hip1="677" hip2="3092"/>
+        <segment hip1="3092" hip2="5447"/>
+        <segment hip1="5447" hip2="5586"/>
+        <segment hip1="5447" hip2="9640"/>
+        <segment hip1="9640" hip2="10064"/>
+        <segment hip1="10064" hip2="10670"/>
+      </segments>
+    </asterisme>
+    <asterisme id="dilyehe">
+      <noms>
+        <nom lang="native">Dilyehe</nom>
+        <nom lang="eng">Dilyehe</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="17847" hip2="17851"/>
+        <segment hip1="17851" hip2="17702"/>
+        <segment hip1="17702" hip2="17847"/>
+        <segment hip1="17702" hip2="17608"/>
+        <segment hip1="17608" hip2="17499"/>
+        <segment hip1="17499" hip2="17531"/>
+        <segment hip1="17531" hip2="17702"/>
+      </segments>
+    </asterisme>
+    <asterisme id="first_big_one">
+      <noms>
+        <nom lang="native">First Big One</nom>
+        <nom lang="eng">First Big One</nom>
+      </noms>
+      <segments ctl="24">
+        <segment hip1="80248" hip2="80840"/>
+        <segment hip1="80840" hip2="80862"/>
+        <segment hip1="80862" hip2="79593"/>
+        <segment hip1="79593" hip2="79545"/>
+        <segment hip1="79545" hip2="80248"/>
+        <segment hip1="80248" hip2="80016"/>
+        <segment hip1="80016" hip2="78727"/>
+        <segment hip1="78727" hip2="76333"/>
+        <segment hip1="76333" hip2="77853"/>
+        <segment hip1="77853" hip2="76470"/>
+        <segment hip1="76470" hip2="75177"/>
+        <segment hip1="78727" hip2="78401"/>
+        <segment hip1="78401" hip2="78265"/>
+        <segment hip1="78265" hip2="78104"/>
+        <segment hip1="78104" hip2="77634"/>
+        <segment hip1="77634" hip2="78384"/>
+        <segment hip1="78104" hip2="81266"/>
+        <segment hip1="81266" hip2="82396"/>
+        <segment hip1="82396" hip2="82514"/>
+        <segment hip1="81266" hip2="80975"/>
+        <segment hip1="80975" hip2="80894"/>
+        <segment hip1="80894" hip2="81377"/>
+        <segment hip1="81377" hip2="84012"/>
+        <segment hip1="81377" hip2="80016"/>
+      </segments>
+    </asterisme>
+    <asterisme id="rabbit_tracks">
+      <noms>
+        <nom lang="native">Rabbit Tracks</nom>
+        <nom lang="eng">Rabbit Tracks</nom>
+      </noms>
+      <segments ctl="0"/>
+    </asterisme>
+    <asterisme id="first_slim_one">
+      <noms>
+        <nom lang="native">First Slim One</nom>
+        <nom lang="eng">First Slim One</nom>
+      </noms>
+      <segments ctl="20">
+        <segment hip1="22957" hip2="22449"/>
+        <segment hip1="22449" hip2="22549"/>
+        <segment hip1="22549" hip2="22797"/>
+        <segment hip1="28614" hip2="27989"/>
+        <segment hip1="27989" hip2="28614"/>
+        <segment hip1="28614" hip2="28171"/>
+        <segment hip1="28171" hip2="28686"/>
+        <segment hip1="28686" hip2="29508"/>
+        <segment hip1="29508" hip2="29138"/>
+        <segment hip1="29138" hip2="28614"/>
+        <segment hip1="27989" hip2="26207"/>
+        <segment hip1="27989" hip2="25336"/>
+        <segment hip1="27989" hip2="25930"/>
+        <segment hip1="25930" hip2="25281"/>
+        <segment hip1="25281" hip2="24436"/>
+        <segment hip1="25930" hip2="26311"/>
+        <segment hip1="26311" hip2="26727"/>
+        <segment hip1="26727" hip2="27989"/>
+        <segment hip1="26727" hip2="26199"/>
+        <segment hip1="26199" hip2="27366"/>
+      </segments>
+    </asterisme>
+  </asterismes>
+  <corps_celestes/>
+</skyculture>
