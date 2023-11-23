@@ -1,0 +1,118 @@
+<skyculture id="khoi-san" name="khoi-san">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>CC BY-ND 4.0 International Public License</license>
+    <credit>Centre for Astronomical Heritage (CfAH)</credit>
+    <region>Southern Africa</region>
+  </metadata>
+  <descriptions>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="milky_way">
+      <noms>
+        <nom lang="native">Milky Way</nom>
+        <nom lang="eng">Stars' Road</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="85696" hip2="85927"/>
+      </segments>
+      <stellarium_figure src="illustrations/roots.png" width="512" height="512">
+        <ancre hip="80569" x="105" y="143"/>
+        <ancre hip="63613" x="409" y="53"/>
+        <ancre hip="93015" x="433" y="202"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="aldebaran_and_pleiades">
+      <noms>
+        <nom lang="native">Aldebaran and Pleiades</nom>
+        <nom lang="eng">Hunter and his wives</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="21421" hip2="21029"/>
+      </segments>
+      <stellarium_figure src="illustrations/hunter.png" width="512" height="512">
+        <ancre hip="18246" x="24" y="277"/>
+        <ancre hip="21421" x="446" y="201"/>
+        <ancre hip="17453" x="236" y="127"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="betelgueuse_and_orions_belt">
+      <noms>
+        <nom lang="native">Betelgueuse and Orion's Belt</nom>
+        <nom lang="eng">The Lion stalking Zebra</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="26063" hip2="25737"/>
+      </segments>
+      <stellarium_figure src="illustrations/zebras.png" width="512" height="512">
+        <ancre hip="26427" x="399" y="70"/>
+        <ancre hip="26311" x="293" y="188"/>
+        <ancre hip="27989" x="314" y="420"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="canopus">
+      <noms>
+        <nom lang="native">Canopus</nom>
+        <nom lang="eng">The Ant-egg Star</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="30438" hip2="31079"/>
+      </segments>
+      <stellarium_figure src="illustrations/ant-egg.png" width="512" height="512">
+        <ancre hip="30438" x="76" y="330"/>
+        <ancre hip="35158" x="155" y="174"/>
+        <ancre hip="39662" x="423" y="285"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="vega">
+      <noms>
+        <nom lang="native">Vega</nom>
+        <nom lang="eng">Male Steenbok</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="91262" hip2="91373"/>
+      </segments>
+      <stellarium_figure src="illustrations/steenbok.png" width="512" height="512">
+        <ancre hip="91262" x="349" y="144"/>
+        <ancre hip="85819" x="53" y="222"/>
+        <ancre hip="103963" x="417" y="487"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="mura">
+      <noms>
+        <nom lang="native">Mura</nom>
+        <nom lang="eng">The Eyes of the Beast</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="71333" hip2="68902"/>
+      </segments>
+      <stellarium_figure src="illustrations/beast.png" width="512" height="512">
+        <ancre hip="74824" x="47" y="144"/>
+        <ancre hip="67664" x="263" y="375"/>
+        <ancre hip="70035" x="248" y="209"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <etoile hip="7588">Achernar</etoile>
+    <etoile hip="21421">Aldebaran</etoile>
+    <etoile hip="24436">Rigel</etoile>
+    <etoile hip="24608">Capella</etoile>
+    <etoile hip="27989">Betelgeuse</etoile>
+    <etoile hip="30438">Canopus</etoile>
+    <etoile hip="32349">Sirius</etoile>
+    <etoile hip="60718">Acrux</etoile>
+    <etoile hip="68702">Hadar</etoile>
+    <etoile hip="71683">Rigil Kent</etoile>
+    <etoile hip="80763">Antares</etoile>
+    <etoile hip="91262">Vega</etoile>
+  </corps_celestes>
+</skyculture>
