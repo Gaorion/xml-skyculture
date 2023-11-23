@@ -1,0 +1,220 @@
+<skyculture id="inuit" name="inuit">
+  <metadata>
+    <classification type="ethnographic"/>
+    <license>GNU GPL v2.0 + Free Art License</license>
+    <credit/>
+    <region>Northern America</region>
+  </metadata>
+  <descriptions>
+    <description lang="de" src="description.de.utf8"/>
+    <description lang="cs" src="description.cs.utf8"/>
+    <description lang="zh_CN" src="description.zh_CN.utf8"/>
+    <description lang="pt_BR" src="description.pt_BR.utf8"/>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="zh_TW" src="description.zh_TW.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="hr" src="description.hr.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="ar" src="description.ar.utf8"/>
+    <description lang="zh_HK" src="description.zh_HK.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="fr" src="description.fr.utf8"/>
+    <description lang="hu" src="description.hu.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="aagjuuk">
+      <noms>
+        <nom lang="native">Aagjuuk</nom>
+        <nom lang="eng">Two Sunbeams</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="97649" hip2="97278"/>
+      </segments>
+      <stellarium_figure src="illustrations/two-sunbeams.png" width="512" height="512">
+        <ancre hip="97675" x="210" y="54"/>
+        <ancre hip="97278" x="274" y="92"/>
+        <ancre hip="97649" x="148" y="129"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="akkuttujuuk">
+      <noms>
+        <nom lang="native">Akkuttujuuk</nom>
+        <nom lang="eng">Two Placed Far Apart</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="27989" hip2="25336"/>
+      </segments>
+      <stellarium_figure src="illustrations/two-placed-far-apart.png" width="512" height="512">
+        <ancre hip="26207" x="156" y="99"/>
+        <ancre hip="27989" x="114" y="413"/>
+        <ancre hip="25336" x="412" y="98"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="qimmiitt">
+      <noms>
+        <nom lang="native">Qimmiitt</nom>
+        <nom lang="eng">Dogs</nom>
+      </noms>
+      <segments ctl="4">
+        <segment hip1="21421" hip2="20894"/>
+        <segment hip1="20894" hip2="20205"/>
+        <segment hip1="20205" hip2="20455"/>
+        <segment hip1="20455" hip2="20889"/>
+      </segments>
+      <stellarium_figure src="illustrations/dogs.png" width="512" height="512">
+        <ancre hip="21421" x="168" y="216"/>
+        <ancre hip="20205" x="418" y="352"/>
+        <ancre hip="20889" x="338" y="67"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="quturjuuk">
+      <noms>
+        <nom lang="native">Quturjuuk</nom>
+        <nom lang="eng">Collarbones</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="24608" hip2="28360"/>
+        <segment hip1="28360" hip2="36850"/>
+        <segment hip1="36850" hip2="37826"/>
+      </segments>
+      <stellarium_figure src="illustrations/collarbones.png" width="512" height="512">
+        <ancre hip="37826" x="52" y="469"/>
+        <ancre hip="35384" x="123" y="79"/>
+        <ancre hip="24608" x="496" y="37"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="pituaq">
+      <noms>
+        <nom lang="native">Pituaq</nom>
+        <nom lang="eng">Lamp Stand</nom>
+      </noms>
+      <segments ctl="3">
+        <segment hip1="4427" hip2="3179"/>
+        <segment hip1="3179" hip2="746"/>
+        <segment hip1="746" hip2="4427"/>
+      </segments>
+      <stellarium_figure src="illustrations/lamp-stand.png" width="256" height="256">
+        <ancre hip="746" x="244" y="59"/>
+        <ancre hip="3179" x="102" y="182"/>
+        <ancre hip="4427" x="11" y="31"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="tukturjuit">
+      <noms>
+        <nom lang="native">Tukturjuit</nom>
+        <nom lang="eng">Caribou</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="67301" hip2="65378"/>
+        <segment hip1="65378" hip2="62956"/>
+        <segment hip1="62956" hip2="59774"/>
+        <segment hip1="59774" hip2="58001"/>
+        <segment hip1="58001" hip2="53910"/>
+        <segment hip1="53910" hip2="54061"/>
+        <segment hip1="54061" hip2="59774"/>
+      </segments>
+      <stellarium_figure src="illustrations/caribou.png" width="512" height="512">
+        <ancre hip="67301" x="62" y="217"/>
+        <ancre hip="54061" x="413" y="308"/>
+        <ancre hip="53910" x="385" y="380"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="sivulliik">
+      <noms>
+        <nom lang="native">Sivulliik</nom>
+        <nom lang="eng">Two in Front</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="67927" hip2="69673"/>
+      </segments>
+      <stellarium_figure src="illustrations/two-in-front.png" width="512" height="512">
+        <ancre hip="69673" x="264" y="158"/>
+        <ancre hip="67927" x="412" y="291"/>
+        <ancre hip="70027" x="171" y="233"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="sakiattiak">
+      <noms>
+        <nom lang="native">Sakiattiak</nom>
+        <nom lang="eng">Breastbone</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="17851" hip2="17847"/>
+        <segment hip1="17847" hip2="17702"/>
+        <segment hip1="17702" hip2="17851"/>
+        <segment hip1="17702" hip2="17608"/>
+        <segment hip1="17608" hip2="17499"/>
+        <segment hip1="17499" hip2="17531"/>
+        <segment hip1="17531" hip2="17702"/>
+      </segments>
+      <stellarium_figure src="illustrations/breastbone.png" width="256" height="256">
+        <ancre hip="17531" x="137" y="35"/>
+        <ancre hip="17499" x="188" y="80"/>
+        <ancre hip="17851" x="38" y="186"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="ullaktut">
+      <noms>
+        <nom lang="native">Ullaktut</nom>
+        <nom lang="eng">Runners</nom>
+      </noms>
+      <segments ctl="2">
+        <segment hip1="26727" hip2="26311"/>
+        <segment hip1="26311" hip2="25930"/>
+      </segments>
+      <stellarium_figure src="illustrations/runners.png" width="512" height="512">
+        <ancre hip="26727" x="84" y="338"/>
+        <ancre hip="26311" x="232" y="235"/>
+        <ancre hip="25930" x="368" y="112"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="uqsuutaattiaq">
+      <noms>
+        <nom lang="native">Uqsuutaattiaq</nom>
+        <nom lang="eng">Blubber Container</nom>
+      </noms>
+      <segments ctl="5">
+        <segment hip1="8886" hip2="6686"/>
+        <segment hip1="6686" hip2="4427"/>
+        <segment hip1="4427" hip2="3821"/>
+        <segment hip1="3821" hip2="3179"/>
+        <segment hip1="3179" hip2="746"/>
+      </segments>
+      <stellarium_figure src="illustrations/blubber-container.png" width="256" height="256">
+        <ancre hip="4427" x="255" y="187"/>
+        <ancre hip="6686" x="120" y="220"/>
+        <ancre hip="8886" x="12" y="81"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="kingulliq">
+      <noms>
+        <nom lang="native">Kingulliq</nom>
+        <nom lang="eng">The One Behind</nom>
+      </noms>
+      <segments ctl="1">
+        <segment hip1="91262" hip2="91262"/>
+      </segments>
+      <stellarium_figure src="illustrations/the-one-behind.png" width="512" height="512">
+        <ancre hip="91919" x="428" y="77"/>
+        <ancre hip="91262" x="416" y="179"/>
+        <ancre hip="91971" x="311" y="118"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes>
+    <etoile hip="91262">The Old Woman</etoile>
+    <etoile hip="21421">Spirit of a Polar Bear</etoile>
+    <etoile hip="11767">Never Moves</etoile>
+    <etoile hip="37279">Name of a Murdered Man</etoile>
+    <etoile hip="32349">Flickering</etoile>
+    <etoile hip="26241">Nephews</etoile>
+    <etoile hip="69673">The Old Man</etoile>
+    <etoile hip="67927">The Little Orphan Boy</etoile>
+  </corps_celestes>
+</skyculture>
