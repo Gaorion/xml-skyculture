@@ -1,0 +1,162 @@
+<skyculture id="northern_andes" name="northern_andes">
+  <metadata>
+    <classification type="traditional"/>
+    <license>GNU GPL v2.0</license>
+    <credit/>
+    <region>Southern America</region>
+  </metadata>
+  <descriptions>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="estelina_quinatoa_el_jaguar">
+      <noms>
+        <nom lang="native">Estelina Quinatoa (El Jaguar)</nom>
+        <nom lang="eng">The Jaguar</nom>
+      </noms>
+      <segments ctl="16">
+        <segment hip1="32578" hip2="31622"/>
+        <segment hip1="31622" hip2="31646"/>
+        <segment hip1="31646" hip2="32533"/>
+        <segment hip1="32533" hip2="31216"/>
+        <segment hip1="31216" hip2="30419"/>
+        <segment hip1="30419" hip2="29860"/>
+        <segment hip1="29860" hip2="30185"/>
+        <segment hip1="30185" hip2="30545"/>
+        <segment hip1="30545" hip2="30493"/>
+        <segment hip1="30493" hip2="30666"/>
+        <segment hip1="30666" hip2="30093"/>
+        <segment hip1="30093" hip2="29651"/>
+        <segment hip1="29651" hip2="30772"/>
+        <segment hip1="30772" hip2="31278"/>
+        <segment hip1="31278" hip2="31083"/>
+        <segment hip1="31083" hip2="32578"/>
+      </segments>
+      <stellarium_figure src="illustrations/jaguar.png" width="512" height="512">
+        <ancre hip="29996" x="2" y="342"/>
+        <ancre hip="32226" x="425" y="142"/>
+        <ancre hip="31347" x="509" y="204"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="mercedes_cotacachi_el_mono">
+      <noms>
+        <nom lang="native">Mercedes Cotacachi (El Mono)</nom>
+        <nom lang="eng">The Monkey</nom>
+      </noms>
+      <segments ctl="22">
+        <segment hip1="92175" hip2="92202"/>
+        <segment hip1="92202" hip2="93026"/>
+        <segment hip1="93026" hip2="93429"/>
+        <segment hip1="93429" hip2="93805"/>
+        <segment hip1="93805" hip2="93717"/>
+        <segment hip1="93717" hip2="93526"/>
+        <segment hip1="93526" hip2="91308"/>
+        <segment hip1="91308" hip2="90441"/>
+        <segment hip1="90441" hip2="90642"/>
+        <segment hip1="90642" hip2="88404"/>
+        <segment hip1="88404" hip2="86768"/>
+        <segment hip1="86768" hip2="88048"/>
+        <segment hip1="88048" hip2="88326"/>
+        <segment hip1="88326" hip2="87879"/>
+        <segment hip1="87879" hip2="87544"/>
+        <segment hip1="87544" hip2="87074"/>
+        <segment hip1="87074" hip2="87161"/>
+        <segment hip1="87161" hip2="88258"/>
+        <segment hip1="88258" hip2="88857"/>
+        <segment hip1="88857" hip2="88981"/>
+        <segment hip1="88981" hip2="91105"/>
+        <segment hip1="91105" hip2="92175"/>
+      </segments>
+      <stellarium_figure src="illustrations/mono.png" width="512" height="512">
+        <ancre hip="93805" x="312" y="6"/>
+        <ancre hip="88258" x="50" y="377"/>
+        <ancre hip="90441" x="458" y="308"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="hernan_crespo_toral_el_guerrero">
+      <noms>
+        <nom lang="native">Hernan Crespo Toral (El Guerrero)</nom>
+        <nom lang="eng">The Warrior</nom>
+      </noms>
+      <segments ctl="12">
+        <segment hip1="2599" hip2="115990"/>
+        <segment hip1="115990" hip2="112731"/>
+        <segment hip1="112731" hip2="6686"/>
+        <segment hip1="6686" hip2="2599"/>
+        <segment hip1="6686" hip2="8020"/>
+        <segment hip1="8020" hip2="12346"/>
+        <segment hip1="12346" hip2="10893"/>
+        <segment hip1="10893" hip2="8886"/>
+        <segment hip1="8886" hip2="11569"/>
+        <segment hip1="11569" hip2="5518"/>
+        <segment hip1="5518" hip2="112724"/>
+        <segment hip1="112724" hip2="6686"/>
+      </segments>
+      <stellarium_figure src="illustrations/guerrero.png" width="512" height="512">
+        <ancre hip="9799" x="247" y="8"/>
+        <ancre hip="112731" x="194" y="510"/>
+        <ancre hip="8878" x="367" y="94"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="ana_jaramillo_de_velastegui_el_sapo">
+      <noms>
+        <nom lang="native">Ana Jaramillo de Velastegui (El Sapo)</nom>
+        <nom lang="eng">The Frog</nom>
+      </noms>
+      <segments ctl="22">
+        <segment hip1="59996" hip2="59072"/>
+        <segment hip1="59072" hip2="59457"/>
+        <segment hip1="59457" hip2="60771"/>
+        <segment hip1="60771" hip2="60944"/>
+        <segment hip1="60944" hip2="62053"/>
+        <segment hip1="62053" hip2="61158"/>
+        <segment hip1="61158" hip2="62227"/>
+        <segment hip1="62227" hip2="63802"/>
+        <segment hip1="63802" hip2="63277"/>
+        <segment hip1="63277" hip2="62268"/>
+        <segment hip1="62268" hip2="62732"/>
+        <segment hip1="62732" hip2="64016"/>
+        <segment hip1="64016" hip2="63117"/>
+        <segment hip1="63117" hip2="61179"/>
+        <segment hip1="61179" hip2="60379"/>
+        <segment hip1="60379" hip2="61136"/>
+        <segment hip1="61136" hip2="59649"/>
+        <segment hip1="59649" hip2="59282"/>
+        <segment hip1="59282" hip2="58901"/>
+        <segment hip1="58901" hip2="60260"/>
+        <segment hip1="60260" hip2="59396"/>
+        <segment hip1="59396" hip2="59996"/>
+      </segments>
+      <stellarium_figure src="illustrations/sapo.png" width="512" height="512">
+        <ancre hip="62026" x="225" y="40"/>
+        <ancre hip="64664" x="43" y="223"/>
+        <ancre hip="58041" x="468" y="109"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="la_flecha_jorge_trujillo">
+      <noms>
+        <nom lang="native">La Flecha (Jorge Trujillo)</nom>
+        <nom lang="eng">The Arrow</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="6686" hip2="4427"/>
+        <segment hip1="4427" hip2="2599"/>
+        <segment hip1="2599" hip2="746"/>
+        <segment hip1="746" hip2="3179"/>
+        <segment hip1="3179" hip2="3821"/>
+        <segment hip1="3821" hip2="4422"/>
+        <segment hip1="4422" hip2="6686"/>
+      </segments>
+    </asterisme>
+  </asterismes>
+  <corps_celestes/>
+</skyculture>
