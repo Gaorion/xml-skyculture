@@ -1,0 +1,118 @@
+<skyculture id="aztec" name="aztec">
+  <metadata>
+    <classification type="historical"/>
+    <license>GNU GPL v2.0</license>
+    <credit/>
+    <region>Central America</region>
+  </metadata>
+  <descriptions>
+    <description lang="de" src="description.de.utf8"/>
+    <description lang="cs" src="description.cs.utf8"/>
+    <description lang="zh_CN" src="description.zh_CN.utf8"/>
+    <description lang="be" src="description.be.utf8"/>
+    <description lang="pt_BR" src="description.pt_BR.utf8"/>
+    <description lang="ja" src="description.ja.utf8"/>
+    <description lang="en" src="description.en.utf8"/>
+    <description lang="es" src="description.es.utf8"/>
+    <description lang="uk" src="description.uk.utf8"/>
+    <description lang="zh_TW" src="description.zh_TW.utf8"/>
+    <description lang="bn" src="description.bn.utf8"/>
+    <description lang="ru" src="description.ru.utf8"/>
+    <description lang="hr" src="description.hr.utf8"/>
+    <description lang="sk" src="description.sk.utf8"/>
+    <description lang="fi" src="description.fi.utf8"/>
+    <description lang="ar" src="description.ar.utf8"/>
+    <description lang="zh_HK" src="description.zh_HK.utf8"/>
+    <description lang="gl" src="description.gl.utf8"/>
+    <description lang="fr" src="description.fr.utf8"/>
+    <description lang="hu" src="description.hu.utf8"/>
+    <description lang="nl" src="description.nl.utf8"/>
+  </descriptions>
+  <asterismes>
+    <asterisme id="mamalhuaztli">
+      <noms>
+        <nom lang="native">Mamalhuaztli</nom>
+        <nom lang="eng">Mamalhuaztli (The New fire)</nom>
+      </noms>
+      <segments ctl="5">
+        <segment hip1="26727" hip2="26311"/>
+        <segment hip1="26311" hip2="25930"/>
+        <segment hip1="26311" hip2="26237"/>
+        <segment hip1="26237" hip2="26221"/>
+        <segment hip1="26221" hip2="26199"/>
+      </segments>
+      <stellarium_figure src="illustrations/mamalhuaztli.png" width="512" height="512">
+        <ancre hip="26311" x="150" y="262"/>
+        <ancre hip="25930" x="124" y="174"/>
+        <ancre hip="26199" x="438" y="368"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="tianquiztli">
+      <noms>
+        <nom lang="native">Tianquiztli</nom>
+        <nom lang="eng">Tianquiztli  (The Market)</nom>
+      </noms>
+      <segments ctl="7">
+        <segment hip1="17847" hip2="17664"/>
+        <segment hip1="17664" hip2="17579"/>
+        <segment hip1="17579" hip2="17531"/>
+        <segment hip1="17531" hip2="17489"/>
+        <segment hip1="17489" hip2="17499"/>
+        <segment hip1="17499" hip2="17608"/>
+        <segment hip1="17608" hip2="17847"/>
+      </segments>
+      <stellarium_figure src="illustrations/tianquiztli.png" width="512" height="512">
+        <ancre hip="17579" x="160" y="160"/>
+        <ancre hip="17499" x="276" y="118"/>
+        <ancre hip="17847" x="342" y="402"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="citlaltlachtli">
+      <noms>
+        <nom lang="native">Citlaltlachtli</nom>
+        <nom lang="eng">Citlaltlachtli (The ball game of the stars)</nom>
+      </noms>
+      <segments ctl="9">
+        <segment hip1="37826" hip2="36850"/>
+        <segment hip1="36850" hip2="34693"/>
+        <segment hip1="34693" hip2="32246"/>
+        <segment hip1="32246" hip2="30343"/>
+        <segment hip1="30343" hip2="30883"/>
+        <segment hip1="30883" hip2="31681"/>
+        <segment hip1="31681" hip2="34088"/>
+        <segment hip1="34088" hip2="36962"/>
+        <segment hip1="36962" hip2="37826"/>
+      </segments>
+      <stellarium_figure src="illustrations/citlaltlachtli.png" width="512" height="512">
+        <ancre hip="37826" x="144" y="331"/>
+        <ancre hip="36850" x="133" y="201"/>
+        <ancre hip="30343" x="396" y="182"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="xonecuilli">
+      <noms>
+        <nom lang="native">Xonecuilli</nom>
+        <nom lang="eng">Xonecuilli (Twisted foot)</nom>
+      </noms>
+      <segments ctl="0"/>
+      <stellarium_figure src="illustrations/xonecuilli_crop.png" width="256" height="512">
+        <ancre hip="11767" x="102" y="41"/>
+        <ancre hip="79822" x="106" y="414"/>
+        <ancre hip="72607" x="198" y="374"/>
+      </stellarium_figure>
+    </asterisme>
+    <asterisme id="colotl_ixayac">
+      <noms>
+        <nom lang="native">Colotl Ixayac</nom>
+        <nom lang="eng">Colotl Ixayac (Scorpion face)</nom>
+      </noms>
+      <segments ctl="0"/>
+      <stellarium_figure src="illustrations/colotlixayac.png" width="512" height="512">
+        <ancre hip="87073" x="82" y="185"/>
+        <ancre hip="82729" x="64" y="308"/>
+        <ancre hip="81266" x="310" y="255"/>
+      </stellarium_figure>
+    </asterisme>
+  </asterismes>
+  <corps_celestes/>
+</skyculture>
